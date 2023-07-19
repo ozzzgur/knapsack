@@ -1,6 +1,4 @@
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ozzgur.sanli/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ozzgur.sanli/2" alt="Recent Article 2"> 
-
-
+[**Solving Knapsack Problem with Using List Comprehensions in Python**](https://medium.com/@ozzgur.sanli/solving-knapsack-problem-with-using-list-compherensions-in-python-580f476b3335)
 
 
 
